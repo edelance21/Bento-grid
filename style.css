@@ -235,9 +235,7 @@ body {
         padding-top: 2rem;
     }
 
-    body {
-        height: 100%;
-    }
+    body {}
 
     .parent .item:nth-child(2) {
         order: 1;
