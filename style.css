@@ -234,7 +234,9 @@ body {
         padding-top: 2rem;
     }
 
-    body {}
+    body {
+        min-height: 300vh;
+    }
 
     .parent .item:nth-child(2) {
         order: 1;
