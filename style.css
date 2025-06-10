@@ -247,6 +247,7 @@ body {
     
     .parent .item:nth-child(2) h1 {
         max-width: 8ch;
+        padding-left: 5rem;
     }
 
     .parent .item:nth-child(4) {
